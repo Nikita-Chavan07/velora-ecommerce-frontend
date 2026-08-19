@@ -110,7 +110,7 @@ velora/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/velora.git
+git clone https://github.com/Nikita-Chavan07/velora-ecommerce-frontend.git
 cd velora
 
 # Install dependencies
@@ -186,7 +186,7 @@ The API service is in `src/services/api.ts` and decoupled from all UI components
 
 > _Add deployed URL here (e.g. Vercel/Netlify)_
 
-🔗 [https://velora.vercel.app](https://velora.vercel.app)
+🔗 [https://velora-ecommerce-frontend.vercel.app](https://velora-ecommerce-frontend.vercel.app)
 
 ---
 
@@ -194,7 +194,7 @@ The API service is in `src/services/api.ts` and decoupled from all UI components
 
 > _Add your repository URL here_
 
-🔗 [https://github.com/yourusername/velora](https://github.com/yourusername/velora)
+🔗 [https://github.com/Nikita-Chavan07/velora-ecommerce-frontend](https://github.com/Nikita-Chavan07/velora-ecommerce-frontend)
 
 ---
 
